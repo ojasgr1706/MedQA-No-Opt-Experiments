@@ -1,0 +1,451 @@
+context : 
+ Context : 
+ INSTRUCTION Look at this patient. SALIENT FEATURES History · Daytime somnolence. · Unrefreshing sleep. · Daytime fatigue. · Snoring. · Shortness of breath. · Headache, particularly in the morning. · Swelling of feet. · Poor concentration. · Systemic hypertension. · Family history of obesity. · Gastro-oesophageal reflux. · Poor quality of life. Examination · Obese patient who is plethoric and cyanosed. · Maxillary or mandibular hypoplasia. · Shortness of breath at rest. · May be nodding off to sleep. · Systemic hypertension. · Nocturnal angina. · Look for signs of pulmonary hypertension and right heart failure. Remember. Nearly 50% of patients with sleep apnoea syndrome are not obese. DIAGNOSIS This patient has marked obesity and hypersomnolence with signs of pulmonary hypertension (lesion) which indicate that she has pickwickian syndrome. The patient is in cardiac failure (functional status).  
+Question : 
+How would you treat such a patient?
+ 
+Answer : 
+ 
+predicted output :
+ The aim is to keep the airway patency (P aO2) at 72 h.
+ 
+gold output :
+ · Weight reduction.· Avoidance of smoking and alcohol.· Progesterone (enhances respiratory drive).·       Continuous nasal positive airway pressure delivered by a nasal mask (lancet 1999; 353: 2100-5).·       Home oxygen.·       Surgery: tracheostomy, uvulopalatopharyngoplasty, linguoplasty, mandibular advancement, plastic remodelling of the uvula(laser-assisted or radiofrequency ablation).·       Drugs: serotonin receptor blockade, acetazolamide, methylxanthines, weight loss medications.Mr. Pickwick is a character in the novel Pickwick Papers, written by Charles Dickens; the term was applied by Sir William Osier.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine the chest of this male patient who has had a good appetite, poor weight gain and foul fatty stool. SALIENT FEATURES History · Cough with purulent and viscous expectoration. · Diabetes mellitus. · Gastrointestinal symptoms (steatorrhoea, failure to thrive in childhood, rectal prolapse, meconium ileus or distal intestinal obstruction). · Heat stroke, salt depletion. · Sterility in men and decreased fertility in women. Examination · Sputum is purulent. · Patient is short of breath. · Central cyanosis. · Finger clubbing. · Bilateral coarse crackles. Proceed as follows: Tell the examiner that you would like to check the following levels: · Urine sugar.  · Faecal fat. · Sweat sodium. DIAGNOSIS This patient has bilateral coarse crackles, asthenia and foul fatty stool (lesion) due to cystic fibrosis (aetiology) and requires continuous oxygen indicating respiratory failure (functional status).  
+Question : 
+What do you know about sweat testing?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                  parenchyma (n Engl J Med 352:1992, 2005. Copyright © 2005 Massachusetts Medical Society.·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+gold output :
+ A sweat sodimn concentration over 60 mmol/l is indicative of cystic fibrosis. It identifies over 75% by the age of 2 years and about95% by the age of 12 years. It is more difficult to interpret in older children and adults.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. Examine the respiratory system from the back. SALIENT FEATURES History · Progressive exertional dyspnoea (90%). · Chronic cough (74%). · ArthralgiaJarthritis (19%). · Obtain a drug history (amiodarone, nitrofurantoin and busulfan). Examination · Clubbing. · Central cyanosis. · Bilateral, basal, fine, end-inspiratory crackles which disappear or become quieter on leaning forwards. Furthermore, the crackles do not disappear on coughing (unlike those of pulmonary oedema). The crackles have been called 'Velcro' or 'Cellophane' crackles. · Tachypnoea (in advanced cases). Proceed as follows: · Examine the following: -Hands (for rheumatoid arthritis, systemic sclerosis). -Face (for typical rash of SLE, heliotropic rash of dermatomyositis, typical facies of systemic sclerosis, lupus pernio of sarcoid). -Mouth (for aphthous ulcers of Crohn's disease, dry mouth of Sj6gren's syndrome). · Look for signs of pulmonary hypertension: 'a' wave in the JVP, left parasternal heave and P2. DIAGNOSIS This patient has bilateral, basal, fine, end-inspiratory crackles (lesion) due to fibrosing alveolitis (aetiology) and is tachypnoeic at rest (functional status).  
+Question : 
+How would you manage this patient?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+gold output :
+ ·       All patients should receive a course of steroids (unless there are contraindi-cations): prednisolone 40 mg per day for 6 weeks.Monitor symptoms, CXR, lung function tests. If response is good, continue; if no response then taper over 1 week.·       Steroid non-responders may benefit from a course of cyclophosphamide. Occasionally, patients who are unresponsive toprednisolone and cyclo-phosphamide will respond to prednisolone and azathioprine.·       Identify the underlying cause and manage accordingly.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Productive cough. · Increasing dyspnoea. · Weight loss. * History of smoking. · History of alpha-antitrypsin deficiency. Examination · Begin with examination of the sputum pot. · Observe the patient from the end of the bed - for obvious breathlessness, pursed lip breathing and symmetrical chest movements - and count respiratory rate. · Look for nail changes such as tar staining. · Feel the palms for warmth and the pulse for rapid bounding pulse (signs of carbon dioxide retention). · Look at the lips and tongue for central cyanosis. Neck · Comment on the active contractions of the accessory muscles of respiration such as sternocleidomastoids, scaleni and trapezii. · Palpate for tracheal deviation and measure the distance between the cricoid cartilage and suprasternal notch (less than three fingers' breadth in emphysema). · Comment on the raised JVP. Chest Comment on the barrel-shaped chest. Palpate for: · Apex beat. · Chest expansion. · Vocal fremitus. Percussion: Look for hyper-resonance and obliteration of cardiac and liver dullness. Auscultate for: · Breath sounds (diminished breath sounds). · Vocal resonance. · Forced expiratory time: normal individuals can empty their chest from full inspiration in 4 seconds or less. The end-point of FET is detected by auscultating over the trachea in the suprasternal notch. Prolongation of the FET to more than 6 seconds indicates airflow obstruction. · Loud pulmonary second heart sound. Abdomen Palpable liver due to hepatic displacement comment on upper border of liver by percussion). DIAGNOSIS This patient has features of chronic obstructive airway disease (COAD) (lesion) due to cigarette smoking (aetiology) and is very cyanosed at rest (functional status).  
+Question : 
+How can the sensation of breathlessness be reduced?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+gold output :
+ By the use of either promethazine or dihydrocodeine.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Symptoms related to: -Primary tumour (cough, dyspnoea, haemoptysis, post-obstructive pneumonia). -Mediastinal spread (hoarseness with left-sided lesions due to recurrent laryngeal nerve palsy; obstruction of the superior vena cava with right-sided tumours or associated lymphadenopathy; elevation of the hemidiaphragm as result of phrenic nerve paralysis; dysphagia from oesophageal obstruction and pericardial tamponade). - Metastases (sites include liver, brain, pleural cavity, bone, adrenal glands, contra-lateral lung and skin). (Initial presentation with symptoms from a metastatic focus is particularly common with adenocarcinoma.) -Paraneoplastic syndrome (pain in arms or legs due to hypertrophic osteo-arthropathy, symptoms of hypercalcaemia due to squamous cell carcinoma, neurological syndromes). -Systemic effects (anorexia, weight loss, weakness and profound fatigue). · History of smoking. Examination · Patient 1 has clubbing and tar staining of the fingers. -Dull percussion note at the apex with absent breath sounds. -Look for Homer's syndrome and wasting of the small muscles of the hand. · Patient 2 has signs of pleural effusion on one side. · Patient 3 shows signs of unilateral collapse or consolidation of the upper lobe on one side. Note. If you suspect bronchogenic carcinoma, always look for clubbing, tar staining, cervical lymph nodes and radiation marks, and comment on cachexia. DIAGNOSIS This patient with marked clubbing and large pleural effusion (lesion) probably has bronchogenic carcinoma (aetiology) and is very short of breath due to the large  
+Question : 
+How would you investigate this patient?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+gold output :
+ ·       Sputum cytology: high yield for endobronchial tumours such as squamous cell and small cell carcinoma but poor yield foradenocarcinoma.·       CXR.·       Pleural fluid cytology.·       Bronchoscopy gives a high yield in excess of 90%, particularly when the tumour is viewed endobronchially. For tumours thatare not visualized, the yield for washing and brushing is about 75% in central lesions and 55% in peripheral lesions. The yieldin small-cell and squamous cell carcinomas is higher than in adenocarcinomas.·       CT scan of the chest and upper abdomen (to image the liver and adrenals).·       Bone scan for metastases (helpful in staging).·       PET scanning is highly sensitive and specific for mediastinal staging.·       Pulmonary function tests (most surgeons aim for a FEV1 of about I litre after planned resection); a DLCO below 60% predictedis associated with a mortality rate as high as 25% due to respiratory complications.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Determine whether there is a reversible airway obstruction by history. Are the wheezing and breathlessness reversible? · Tightness in the chest. · Recurrent cough. · Exacerbation of the cough or wheeze at night or after exercise. · Improvement of the cough or wheeze with bronchodilator therapy. · Fever, yellowish sputum. · History of atopy (eczema, hay fever). · History of rhinitis, nasal polyps. Examination · Bilateral scattered wheeze. · Examine the sputum cup. · Comment on accessory muscles of respiration, tachycardia, pulsus paradoxus and whether the patient can utter sentences without stopping to take a breath. DIAGNOSIS This patient has a history of hay fever and bilateral scattered wheeze (lesion) due to bronchial asthma (aetiology), and is breathless at rest (functional status).  
+Question : 
+Mention a few trigger factors known to aggravate asthma.
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                parenchymal, polyps, and haemoptysis (blood-stained sputum) for microbiological assessment.·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+gold output :
+ · Infection.· Emotion.· Exercise.· Drugs, e.g. beta-blockers.· External allergens.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Symptoms related to: -Primary tumour (cough, dyspnoea, haemoptysis, post-obstructive pneumonia). -Mediastinal spread (hoarseness with left-sided lesions due to recurrent laryngeal nerve palsy; obstruction of the superior vena cava with right-sided tumours or associated lymphadenopathy; elevation of the hemidiaphragm as result of phrenic nerve paralysis; dysphagia from oesophageal obstruction and pericardial tamponade). - Metastases (sites include liver, brain, pleural cavity, bone, adrenal glands, contra-lateral lung and skin). (Initial presentation with symptoms from a metastatic focus is particularly common with adenocarcinoma.) -Paraneoplastic syndrome (pain in arms or legs due to hypertrophic osteo-arthropathy, symptoms of hypercalcaemia due to squamous cell carcinoma, neurological syndromes). -Systemic effects (anorexia, weight loss, weakness and profound fatigue). · History of smoking. Examination · Patient 1 has clubbing and tar staining of the fingers. -Dull percussion note at the apex with absent breath sounds. -Look for Homer's syndrome and wasting of the small muscles of the hand. · Patient 2 has signs of pleural effusion on one side. · Patient 3 shows signs of unilateral collapse or consolidation of the upper lobe on one side. Note. If you suspect bronchogenic carcinoma, always look for clubbing, tar staining, cervical lymph nodes and radiation marks, and comment on cachexia. DIAGNOSIS This patient with marked clubbing and large pleural effusion (lesion) probably has bronchogenic carcinoma (aetiology) and is very short of breath due to the large  
+Question : 
+Is the progression of cancer associated with genetic change?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+gold output :
+ Yes: it is accompanied by a mutation in the p53 gene and loss of a portion of' the short arm of chromosome 3 in small cell cancer;the functional significance of this is not clear.Robert Souhami, Professor of Clinical Oncology, University College and Middlesex School of Medicine, London.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Productive cough. · Increasing dyspnoea. · Weight loss. * History of smoking. · History of alpha-antitrypsin deficiency. Examination · Begin with examination of the sputum pot. · Observe the patient from the end of the bed - for obvious breathlessness, pursed lip breathing and symmetrical chest movements - and count respiratory rate. · Look for nail changes such as tar staining. · Feel the palms for warmth and the pulse for rapid bounding pulse (signs of carbon dioxide retention). · Look at the lips and tongue for central cyanosis. Neck · Comment on the active contractions of the accessory muscles of respiration such as sternocleidomastoids, scaleni and trapezii. · Palpate for tracheal deviation and measure the distance between the cricoid cartilage and suprasternal notch (less than three fingers' breadth in emphysema). · Comment on the raised JVP. Chest Comment on the barrel-shaped chest. Palpate for: · Apex beat. · Chest expansion. · Vocal fremitus. Percussion: Look for hyper-resonance and obliteration of cardiac and liver dullness. Auscultate for: · Breath sounds (diminished breath sounds). · Vocal resonance. · Forced expiratory time: normal individuals can empty their chest from full inspiration in 4 seconds or less. The end-point of FET is detected by auscultating over the trachea in the suprasternal notch. Prolongation of the FET to more than 6 seconds indicates airflow obstruction. · Loud pulmonary second heart sound. Abdomen Palpable liver due to hepatic displacement comment on upper border of liver by percussion). DIAGNOSIS This patient has features of chronic obstructive airway disease (COAD) (lesion) due to cigarette smoking (aetiology) and is very cyanosed at rest (functional status).  
+Question : 
+How would you treat an acute exacerbation?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+gold output :
+ · Nebulized bronchodilators (terbutaline, ipratropium bromide). · Intravenous antibiotics (BMJ 1994; 308:871 2), initially amoxicillin and, if there is no clinical response, then a second-generation cephalosporin, quinoline or co-amoxiclav. · Oxygen (24%). · Intravenous hydrocortisone and oral steroids. (Note. Steroid therapy is useful only in acute exacerbations and, unlike in asthma, it does not influence the course of chronic bronchitis.)
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Symptoms related to: -Primary tumour (cough, dyspnoea, haemoptysis, post-obstructive pneumonia). -Mediastinal spread (hoarseness with left-sided lesions due to recurrent laryngeal nerve palsy; obstruction of the superior vena cava with right-sided tumours or associated lymphadenopathy; elevation of the hemidiaphragm as result of phrenic nerve paralysis; dysphagia from oesophageal obstruction and pericardial tamponade). - Metastases (sites include liver, brain, pleural cavity, bone, adrenal glands, contra-lateral lung and skin). (Initial presentation with symptoms from a metastatic focus is particularly common with adenocarcinoma.) -Paraneoplastic syndrome (pain in arms or legs due to hypertrophic osteo-arthropathy, symptoms of hypercalcaemia due to squamous cell carcinoma, neurological syndromes). -Systemic effects (anorexia, weight loss, weakness and profound fatigue). · History of smoking. Examination · Patient 1 has clubbing and tar staining of the fingers. -Dull percussion note at the apex with absent breath sounds. -Look for Homer's syndrome and wasting of the small muscles of the hand. · Patient 2 has signs of pleural effusion on one side. · Patient 3 shows signs of unilateral collapse or consolidation of the upper lobe on one side. Note. If you suspect bronchogenic carcinoma, always look for clubbing, tar staining, cervical lymph nodes and radiation marks, and comment on cachexia. DIAGNOSIS This patient with marked clubbing and large pleural effusion (lesion) probably has bronchogenic carcinoma (aetiology) and is very short of breath due to the large  
+Question : 
+What are the contraindications for surgery?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+gold output :
+ · Metastatic carcinoma.· FEVtless than 1.5 litres.· Transfer factor less than 50%.· Severe pulmonary hypertension.· Uncontrolled major cardiac arrhythmias.· Carbon dioxide retention.· Myocardial infarction in the past 3 months.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Sudden onset or rapidly progressive dyspnoea. · Ipsilateral acute pleuritic pain - the pain is either sharp or a steady ache. · A small pneumothorax may be asymptomatic. · Obtain history of recent pleural aspiration or insertion of subclavian line (J R Soc Med 1997: 90: 319-21), recent surgery to head and neck, abdominal procedures using bowel or peritoneal distension. · History of asthma, COAD, ARDS, pneumonia, trauma to chest. · History of Marfan's syndrome. · History of HIV. · History of positive pressure ventilation. Examination · Decreased movement of the affected side. · Increased percussion note. · Trachea may be central (small pneumothorax) or deviated to the affected side (underlying collapse of lung) or the opposite side (large pneumothorax). · Increased vocal resonance with diminished breath sounds. Proceed as follows: · Look for clues regarding aetiology: -Pleural aspiration site. -Infraclavicular region for a bruise from the central line. -Comment if the patient is thin or has marfanoid features. Inhaler or peak flow meter by the bedside (asthma, COAD). · Tell the examiner that you would suspect tension pneumothorax when there is tachycardia (>135 beats/minute), hypotension and pulsus paradoxus. DIAGNOSIS This patient has diminished breath sounds and hyper-resonant note on R/L side of the chest (lesion) due to pneumothorax secondary to Marfan's syndrome (aetiology), and is not breathless at rest (functional status).  
+Question : 
+What are the causes of pneumothorax?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+gold output :
+ · Spontaneous (usually in thin males).· Trauma.· Bronchial asthma.· COAD - emphysematous bulla (JAMA 1975; 234: 389-93).· Carcinoma of the lung.· Cystic fibrosis.· TB (the original descriptions of pneumothorax were commonly associated withTB, JAMA 1931; 96: 653-7).·       Mechanical ventilation.·       Marfan's syndrome, Ehlers-Danlos syndrome.·       Catamenial pneumothorax, i.e. pneumothorax that occurs in association with menstruation.
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+What do you know about pleural disease in rheumatoid arthritis?
+ 
+Answer : 
+ 
+predicted output :
+ ·                Pleural fluid adenosine (PLE).
+ 
+gold output :
+ About 70% of patients with rheumatoid arthritis have pleural inflammation at autopsy and about 5% have radiological evidence ofpleural inflammation at some time. Pleural involvement is associated with male sex, rheumatoid factor in serum, the presence ofnodules and other systemic manifestations. The effusion is thought to develop as an inflammatory response to the presence ofmultiple subpleural nodules. For reasons that are entirely unclear, the left side is the more common site of unilateral rheumatoidpleural effusions. The pleural fluid glucose level is characteristically low and is said to be due to an 'entrance block' in which glucoseis unable to enter the pleural space, unlike in empyema and malignant effusions where the low pleural fluid glucose concentration isattributed to the increased use of glucose by cells. Cytological appearances of slender and elongated macrophages, round giantmultinucleated macrophages, presence of very few mesothelial cells and necrotic background material are thought to bepathognomonic of rheumatoid pleuritis.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Abrupt onset of symptoms. · Cough with purulent sputum. · Fever with sweating or rigors. · Pleuritic chest pain (pp 251,256). · Shortness of breath. · Haemoptysis. · Nausea, vomiting, diarrhoea (consider Legionella). · Mental status changes (esp. elderly). Examination · Purulent sputum (if bacterial in aetiology). · Tachypnoea. · Reduced movement of the affected side. · Trachea central. · Impaired percussion note. · Bronchial breath sounds. · Crackles. DIAGNOSIS This patient has left lower lobe consolidation with purulent sputum (lesion) indicating a bacterial pneumonia (aetiology).  
+Question : 
+What are the causes of a poorly resolving or recurrent pneumonia?
+ 
+Answer : 
+ 
+predicted output :
+ It is characterized by a cardiac failure that is characterized by an air leak lasting more than 5–7 days.·                                                                                                                                                                                                               haemoptysis, pneumothorax and allergic bronchopulmonary aspergillosis. N Engl J Med 376:1921, 2005. Copyright © 2005 Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society.   The CF airway is characterized by an aggressive, unrelenting and progressive fibrosis of the lung parenchyma. There is defined as a syndrome of fever, but it also occur in other conditions, e. In addition to the severity of this syndrome, it is a regular blood pressure, and allergic bronchopulmonary as well as a regular blood pressure.·                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+gold output :
+ · Carcinoma of the lung.· Aspiration of a foreign body.· Inappropriate antibiotic.· Sequestration (rare; suspect if left lower lobe is involved).
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+What are the earliest radiological signs of pleural fluid?
+ 
+Answer : 
+ 
+predicted output :
+ ·                   Pleural fluid accumulates when pleural fluid formation exceeds pleural fluid absorption.
+ 
+gold output :
+ The earliest radiological signs are blunting of the costophrenic angle on the anterior-posterior view or loss of clear definition of thediaphragm posteriorly on the lateral view.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. Listen to this patient's chest. SALIENT FEATURES History · Cough with copious purulent sputum, recurrent haemoptysis. · Intermittent fever and night sweats. · History of recurrent chest infections. · Weight loss. Examination · Copious purulent expectoration (remember to check the sputum cup in a chest case). · Finger clubbing. · Bilateral coarse, late, inspiratory crackles. Proceed as follows: · Comment on kyphoscoliosis if present. · Tell the examiner that you would like to know whether the bronchiectasis is of long standing; if so, you would like to examine the abdomen for splenomegaly (amyloidosis). In addition there may be signs of collapse, fibrosis or pneumonia. DIAGNOSIS This patient has bilateral, coarse, late inspiratory crackles with purulent sputum (lesion) due to bronchiectasis (aetiology), and is cyanosed.  
+Question : 
+How can CT assess bronchiectasis?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                      parenchymal lung disorder (N Engl J Med 352:1992, 2005. Copyright © 2005 Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society.)   The most common N Engl J Med 376:1921, 2005.·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+gold output :
+ High-resolution CT performed at the end of expiration suggests that small airways disease may be an early feature ofbronchiectasis, which leads to more progressive injury and bronchiolar distortion. Larger studies with long-term follow-up arerequired to confirm this. Conventional CT has a sensitivity of 60-80% for detecting bronchiectasis, whereas high-resolution CT has asensitivity of more than 90%, using bronchography as the 'gold standard'.
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+What are the mechanisms for abnormal accumulation of pleural fluid?
+ 
+Answer : 
+ 
+predicted output :
+ ·               Pleural fluid accumulates when pleural fluid formation exceeds pleural fluid absorption. Normally, fluid enters the pleural space from the capillaries in the parietal pleura and is removed via the lymphatics in the parietal pleura. Fluid also can enter the pleural space from the interstitial spaces of the lung via the visceral pleura or from the peritoneal cavity via small holes in the diaphragm. The lymphatics have the capacity to absorb 20 times more fluid than is formed normally. Accordingly, a pleural effusion may develop when there is excess pleural fluid formation (from the interstitial spaces of the lung, the parietal pleura, or the peritoneal cavity) or when there is decreased fluid removal by the lymphatics. For this reason, a pleural effusion is called the     The pleura, the parietal pleura is characterized by the appearance of the interstitial fibrotal lymphatics and the lymphatics.·                                                                                                                                                                                                                                                                                                                                                                                                                                     
+gold output :
+ There are three main mechanisms:·       An abnormality of the pleura itself, such as a neoplasm or inflammatory process, usually associated with increasedpermeability.·       Disruption of the integrity of a fluid-containing structure within the pleural cavity, such as the thoracic duct, oesophagus, majorblood vessels or tracheobronchial tree, with leakage of the contents into the pleural space.·       Abnormal hydrostatic or osmotic forces operating on an otherwise normal pleural surface and producing a transudate.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Determine whether there is a reversible airway obstruction by history. Are the wheezing and breathlessness reversible? · Tightness in the chest. · Recurrent cough. · Exacerbation of the cough or wheeze at night or after exercise. · Improvement of the cough or wheeze with bronchodilator therapy. · Fever, yellowish sputum. · History of atopy (eczema, hay fever). · History of rhinitis, nasal polyps. Examination · Bilateral scattered wheeze. · Examine the sputum cup. · Comment on accessory muscles of respiration, tachycardia, pulsus paradoxus and whether the patient can utter sentences without stopping to take a breath. DIAGNOSIS This patient has a history of hay fever and bilateral scattered wheeze (lesion) due to bronchial asthma (aetiology), and is breathless at rest (functional status).  
+Question : 
+What do you understand by the term 'asthma'?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                  parenchymal lung disorder (N Engl J Med 352:1992, 2005).
+ 
+gold output :
+ Asthma is an inflammatory disorder characterized by hyper-responsiveness of the airway to various stimuli, resulting in widespreadnarrowing of the airway. The changes are reversible, either sp~mtaneou,;ly or as a resnh of therapy
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Sudden onset or rapidly progressive dyspnoea. · Ipsilateral acute pleuritic pain - the pain is either sharp or a steady ache. · A small pneumothorax may be asymptomatic. · Obtain history of recent pleural aspiration or insertion of subclavian line (J R Soc Med 1997: 90: 319-21), recent surgery to head and neck, abdominal procedures using bowel or peritoneal distension. · History of asthma, COAD, ARDS, pneumonia, trauma to chest. · History of Marfan's syndrome. · History of HIV. · History of positive pressure ventilation. Examination · Decreased movement of the affected side. · Increased percussion note. · Trachea may be central (small pneumothorax) or deviated to the affected side (underlying collapse of lung) or the opposite side (large pneumothorax). · Increased vocal resonance with diminished breath sounds. Proceed as follows: · Look for clues regarding aetiology: -Pleural aspiration site. -Infraclavicular region for a bruise from the central line. -Comment if the patient is thin or has marfanoid features. Inhaler or peak flow meter by the bedside (asthma, COAD). · Tell the examiner that you would suspect tension pneumothorax when there is tachycardia (>135 beats/minute), hypotension and pulsus paradoxus. DIAGNOSIS This patient has diminished breath sounds and hyper-resonant note on R/L side of the chest (lesion) due to pneumothorax secondary to Marfan's syndrome (aetiology), and is not breathless at rest (functional status).  
+Question : 
+How would you manage this patient?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+gold output :
+ ·       Small pneumothoraces (less than 20% in size) spontaneously resolve withinweeks.·       Larger ones (irrespective of size) with normal lungs are managed by simple aspir-ation rather than an intercostal tube as theinitial drainage procedure. Aspiration is less painful than intercostal drainage, leads to a shorter admission and reduces theneed for pleurectomy with no increase in recurrence rate at 1 year.·       When there is rapid re-expansion following simple aspiration, an intercostal tube with underwater seal drainage is used. Thetube should be left in for at least 24 hours. When the lung re-expands, clamp the tube for 24 hours. If repeat radio-graphyshows that the lung remains expanded, the tube can be removed. If not, suction should be applied to the tube. If it fails toresolve within I week, surgical pleurodesis should be considered. Video-assisted thoracoscopic surgery with several chest portsallows clear visualization of the pleural cavity for resection of bullae and pleurodesis.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine the chest of this male patient who has had a good appetite, poor weight gain and foul fatty stool. SALIENT FEATURES History · Cough with purulent and viscous expectoration. · Diabetes mellitus. · Gastrointestinal symptoms (steatorrhoea, failure to thrive in childhood, rectal prolapse, meconium ileus or distal intestinal obstruction). · Heat stroke, salt depletion. · Sterility in men and decreased fertility in women. Examination · Sputum is purulent. · Patient is short of breath. · Central cyanosis. · Finger clubbing. · Bilateral coarse crackles. Proceed as follows: Tell the examiner that you would like to check the following levels: · Urine sugar.  · Faecal fat. · Sweat sodium. DIAGNOSIS This patient has bilateral coarse crackles, asthenia and foul fatty stool (lesion) due to cystic fibrosis (aetiology) and requires continuous oxygen indicating respiratory failure (functional status).  
+Question : 
+How would you treat steatorrhoea?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                parenchymal lung parenchymal disease.
+ 
+gold output :
+ · Low-fat diet.· Pancreatic supplements.· H2-receptor antagonist.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Symptoms related to: -Primary tumour (cough, dyspnoea, haemoptysis, post-obstructive pneumonia). -Mediastinal spread (hoarseness with left-sided lesions due to recurrent laryngeal nerve palsy; obstruction of the superior vena cava with right-sided tumours or associated lymphadenopathy; elevation of the hemidiaphragm as result of phrenic nerve paralysis; dysphagia from oesophageal obstruction and pericardial tamponade). - Metastases (sites include liver, brain, pleural cavity, bone, adrenal glands, contra-lateral lung and skin). (Initial presentation with symptoms from a metastatic focus is particularly common with adenocarcinoma.) -Paraneoplastic syndrome (pain in arms or legs due to hypertrophic osteo-arthropathy, symptoms of hypercalcaemia due to squamous cell carcinoma, neurological syndromes). -Systemic effects (anorexia, weight loss, weakness and profound fatigue). · History of smoking. Examination · Patient 1 has clubbing and tar staining of the fingers. -Dull percussion note at the apex with absent breath sounds. -Look for Homer's syndrome and wasting of the small muscles of the hand. · Patient 2 has signs of pleural effusion on one side. · Patient 3 shows signs of unilateral collapse or consolidation of the upper lobe on one side. Note. If you suspect bronchogenic carcinoma, always look for clubbing, tar staining, cervical lymph nodes and radiation marks, and comment on cachexia. DIAGNOSIS This patient with marked clubbing and large pleural effusion (lesion) probably has bronchogenic carcinoma (aetiology) and is very short of breath due to the large  
+Question : 
+What are the drugs used in non-small cell lung cancer?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+gold output :
+ · Old agents: cisplatin, carboplatin, etoposide, vinblastine, vindesine.· Newer agents: docetaxel, paclitaxel, irinotecan, vinorelbine, gemcitabine.
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+How would you confirm your suspicions when in doubt of a small effusion?
+ 
+Answer : 
+ 
+predicted output :
+ ·                Pleural fluid accumulates when pleural fluid formation exceeds pleural fluid absorption.
+ 
+gold output :
+ Either by a lateral decubitus view (which shows a layering of the fluid along the dependent chest wall unless the fluid is loculated) orby ultrasonography.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. Listen to this patient's chest. SALIENT FEATURES History · Cough with copious purulent sputum, recurrent haemoptysis. · Intermittent fever and night sweats. · History of recurrent chest infections. · Weight loss. Examination · Copious purulent expectoration (remember to check the sputum cup in a chest case). · Finger clubbing. · Bilateral coarse, late, inspiratory crackles. Proceed as follows: · Comment on kyphoscoliosis if present. · Tell the examiner that you would like to know whether the bronchiectasis is of long standing; if so, you would like to examine the abdomen for splenomegaly (amyloidosis). In addition there may be signs of collapse, fibrosis or pneumonia. DIAGNOSIS This patient has bilateral, coarse, late inspiratory crackles with purulent sputum (lesion) due to bronchiectasis (aetiology), and is cyanosed.  
+Question : 
+What do you understand by the term 'bronchiectasis sicca'?
+ 
+Answer : 
+ 
+predicted output :
+ The bronchiectasis: New York, 2020.  In bronchiectasis, there is an exuberant inflammatory response to bronchiectasis and bronchiectasis.·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+gold output :
+ Bronchiectasis or 'dry' bronchiectasis is that which presents with recurrent dry cough associated with intermittent episodes (months or years apart) of haemoptysis. The haemoptysis can be life threatening as bleeding is from bronchial vessels with systemic pressures. There is usually a past history of granulomatous infection, particularly tuberculosis. The upper lobes are often primarily affected, allowing good drainage.
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+What is a pseudotumour?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+gold output :
+ It is the accumulation of fluid between the major or minor fissure or along the lateral chest wall, and can be mistaken for a tumour onthe radiograph. Such loculated effusions can be confirmed with ultrasonography.
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+What are the causes of an exudate with negative cytology findings and pleural fluid lymphocytosis?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+gold output :
+ Possible causes include tuberculosis, collagen vascular diseases and tumours, including lymphoma.
+ 
+context : 
+ Context : 
+INSTRUCTION Examine this patient's chest. Examine this patient's chest from the back. Examine this patient's chest from the front. SALIENT FEATURES History · Fever. · Pleuritic pain (made worse on coughing or deep breathing). · Cough (pneumonia, TB). · Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB). · Shortness of breath (large effusions, cardiac failure). · Exposure to asbestos (mesothelioma). · Nephrotic syndrome. Examination · Decreased movement on the affected side. · Tracheal deviation to the opposite side. * Stony dull note on the affected side. · Decreased vocal resonance and diminished breath sounds on the affected side. Proceed as follows: · Comment on aspiration marks. · Percuss for the upper level of effusion in the axilla. · Listen for bronchial breath sounds. · Listen for aegophony at the upper level of the effusion. · It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and mastectomy, raised JVP, rheumatoid hands or butterfly rash. Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion. DIAGNOSIS This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status).   
+Question : 
+What characteristics of the pleural fluid in a parapneumonic effusion indicate a need for closed-tube drainage?
+ 
+Answer : 
+ 
+predicted output :
+ ·        Pleural fluid adenosine receptor antagonists (serumab) are the most common inhibitors identified in pleural effusions, and are the only impediment to flow. The pleural effusion is recommended in patients with pleural effusion and in those with consolidation on CXR or clinical signs of pneu- monia. Initially, treatment is empirical, with an immunologic response to tuberculous protein in the pleural space.
+ 
+gold output :
+ A pleural fluid glucose concentration of less than 40 mg/dl or a pH less than 7.0 indicates the need/¥r closed-tube drainage.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Determine whether there is a reversible airway obstruction by history. Are the wheezing and breathlessness reversible? · Tightness in the chest. · Recurrent cough. · Exacerbation of the cough or wheeze at night or after exercise. · Improvement of the cough or wheeze with bronchodilator therapy. · Fever, yellowish sputum. · History of atopy (eczema, hay fever). · History of rhinitis, nasal polyps. Examination · Bilateral scattered wheeze. · Examine the sputum cup. · Comment on accessory muscles of respiration, tachycardia, pulsus paradoxus and whether the patient can utter sentences without stopping to take a breath. DIAGNOSIS This patient has a history of hay fever and bilateral scattered wheeze (lesion) due to bronchial asthma (aetiology), and is breathless at rest (functional status).  
+Question : 
+What do you understand by the term 'intrinsic asthma'?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                              parenchymal lung, parenchyma, bronchitis, and haemoptysis. There is some evidence that expec- torants may reduce sputum viscosity. A rare patient may have biochemical abnormalities that interfere with steroid response pathways. Macrolides are of use in a subset. Studies targeting mast cells, IL-6, IL-33, and other pathways illustrated in  Fig. 287-3  are done not necessary. If there is no response in non-label patients, i. Subsequent treatment, however, the patient is of the patient is of a useful test for the test to screen for obesity hypothyroidism is recommended. If the diagnosis is useful for the diagnosis is useful for a transudate-year survival is more than that is more than 3 years old, then may show anaesthesia. There is a pleural fluid N Engl J Med the patient is more than 5 years old, particularly if the patient is more likely to rule out of the underlying disorder.                                                                                                                                                                                                                                                                                                                                                   It is due to both aerobic (BALP). It is useful for breast cells.·                        
+gold output :
+ Intrinsic asthma is of non-allergic aetiology and usually begins after the age of 30 years. It tends to be more continuous and moresevere: status asthmaticus is common in this group.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Fever and night sweats. · Malaise, fatigue, anorexia. · Weight loss. · Cough with sputum. Examination These'patients tend to have signs of common chest diseases which are not cut and dried. There are several masons for this, such as pleural thickening, thoracotomy and pneumonectomy, associated COAD, associated chest infection, plombage or phrenic nerve crush. The following provide some examples: Patient 1 The candidate was asked to examine the chest from the front, as a result of which the old thoracotomy scar was not seen. The patient was wheezy. The trachea was deviated to the right. Percussion note was stony dull from the right second inter-costal space downwards. Wheeze was present on the left side. This patient had a right pneumonectomy with COAD in the left lung. The candidate's diagnosis of right-sided pleural effusion with underlying collapse and left-sided COAD was accepted. Patient 2 The trachea was central. A phrenic nerve crush scar was seen. Percussion note was dull in the left infra-axillary region and there were associated crackles. The diag-nosis of pleural thickening with associated chest infection was accepted; that of pleural effusion was not.  
+Question : 
+To whom would you offer BCG vaccination?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                   
+gold output :
+ BCG vaccination is offered to previously unvaccinated, persistently Heat' test-negative or grade 1 contacts aged under 35 years unless there is a special occu-pational, travel or ethnic risk. Patients with known or suspected HIV infection should not be offered the vaccination.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Symptoms related to: -Primary tumour (cough, dyspnoea, haemoptysis, post-obstructive pneumonia). -Mediastinal spread (hoarseness with left-sided lesions due to recurrent laryngeal nerve palsy; obstruction of the superior vena cava with right-sided tumours or associated lymphadenopathy; elevation of the hemidiaphragm as result of phrenic nerve paralysis; dysphagia from oesophageal obstruction and pericardial tamponade). - Metastases (sites include liver, brain, pleural cavity, bone, adrenal glands, contra-lateral lung and skin). (Initial presentation with symptoms from a metastatic focus is particularly common with adenocarcinoma.) -Paraneoplastic syndrome (pain in arms or legs due to hypertrophic osteo-arthropathy, symptoms of hypercalcaemia due to squamous cell carcinoma, neurological syndromes). -Systemic effects (anorexia, weight loss, weakness and profound fatigue). · History of smoking. Examination · Patient 1 has clubbing and tar staining of the fingers. -Dull percussion note at the apex with absent breath sounds. -Look for Homer's syndrome and wasting of the small muscles of the hand. · Patient 2 has signs of pleural effusion on one side. · Patient 3 shows signs of unilateral collapse or consolidation of the upper lobe on one side. Note. If you suspect bronchogenic carcinoma, always look for clubbing, tar staining, cervical lymph nodes and radiation marks, and comment on cachexia. DIAGNOSIS This patient with marked clubbing and large pleural effusion (lesion) probably has bronchogenic carcinoma (aetiology) and is very short of breath due to the large  
+Question : 
+Which tumours respond well to chemotherapy?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+gold output :
+ Small cell carcinoma: cyclophosphamide, doxorubicin, cisplatin, etoposide and vincristine are some of the drugs used. Thecombination of etoposide and cisplatin appears to have the best therapeutic index of any regimen. A meta-analysis of the role ofchemotherapy in non-small cell lung cancers suggested that the benefits are small.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Productive cough. · Increasing dyspnoea. · Weight loss. * History of smoking. · History of alpha-antitrypsin deficiency. Examination · Begin with examination of the sputum pot. · Observe the patient from the end of the bed - for obvious breathlessness, pursed lip breathing and symmetrical chest movements - and count respiratory rate. · Look for nail changes such as tar staining. · Feel the palms for warmth and the pulse for rapid bounding pulse (signs of carbon dioxide retention). · Look at the lips and tongue for central cyanosis. Neck · Comment on the active contractions of the accessory muscles of respiration such as sternocleidomastoids, scaleni and trapezii. · Palpate for tracheal deviation and measure the distance between the cricoid cartilage and suprasternal notch (less than three fingers' breadth in emphysema). · Comment on the raised JVP. Chest Comment on the barrel-shaped chest. Palpate for: · Apex beat. · Chest expansion. · Vocal fremitus. Percussion: Look for hyper-resonance and obliteration of cardiac and liver dullness. Auscultate for: · Breath sounds (diminished breath sounds). · Vocal resonance. · Forced expiratory time: normal individuals can empty their chest from full inspiration in 4 seconds or less. The end-point of FET is detected by auscultating over the trachea in the suprasternal notch. Prolongation of the FET to more than 6 seconds indicates airflow obstruction. · Loud pulmonary second heart sound. Abdomen Palpable liver due to hepatic displacement comment on upper border of liver by percussion). DIAGNOSIS This patient has features of chronic obstructive airway disease (COAD) (lesion) due to cigarette smoking (aetiology) and is very cyanosed at rest (functional status).  
+Question : 
+How would you treat acute respiratory failure?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+gold output :
+ If Pao2 is less than 8 kPa, administer 24% oxygen. There is no need for oxygen when Pao2 is greater than 8 kPa. Monitor blood gases after 30 minutes. If Pa02 is rising (by I kPa), monitor blood gases hourly. If Pao2 continues to rise, administer doxapram. If, in spite of this, the patient continues to deteriorate, artificial ventilation may be called for.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. Examine the respiratory system from the back. SALIENT FEATURES History · Progressive exertional dyspnoea (90%). · Chronic cough (74%). · ArthralgiaJarthritis (19%). · Obtain a drug history (amiodarone, nitrofurantoin and busulfan). Examination · Clubbing. · Central cyanosis. · Bilateral, basal, fine, end-inspiratory crackles which disappear or become quieter on leaning forwards. Furthermore, the crackles do not disappear on coughing (unlike those of pulmonary oedema). The crackles have been called 'Velcro' or 'Cellophane' crackles. · Tachypnoea (in advanced cases). Proceed as follows: · Examine the following: -Hands (for rheumatoid arthritis, systemic sclerosis). -Face (for typical rash of SLE, heliotropic rash of dermatomyositis, typical facies of systemic sclerosis, lupus pernio of sarcoid). -Mouth (for aphthous ulcers of Crohn's disease, dry mouth of Sj6gren's syndrome). · Look for signs of pulmonary hypertension: 'a' wave in the JVP, left parasternal heave and P2. DIAGNOSIS This patient has bilateral, basal, fine, end-inspiratory crackles (lesion) due to fibrosing alveolitis (aetiology) and is tachypnoeic at rest (functional status).  
+Question : 
+What are the causes of death in such patients?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+gold output :
+ · Respiratory failure or cor pulmonale precipitated by chest infection.* Ten-fold increase in bronchogenic carcinoma compared with normal controls.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine the chest of this male patient who has had a good appetite, poor weight gain and foul fatty stool. SALIENT FEATURES History · Cough with purulent and viscous expectoration. · Diabetes mellitus. · Gastrointestinal symptoms (steatorrhoea, failure to thrive in childhood, rectal prolapse, meconium ileus or distal intestinal obstruction). · Heat stroke, salt depletion. · Sterility in men and decreased fertility in women. Examination · Sputum is purulent. · Patient is short of breath. · Central cyanosis. · Finger clubbing. · Bilateral coarse crackles. Proceed as follows: Tell the examiner that you would like to check the following levels: · Urine sugar.  · Faecal fat. · Sweat sodium. DIAGNOSIS This patient has bilateral coarse crackles, asthenia and foul fatty stool (lesion) due to cystic fibrosis (aetiology) and requires continuous oxygen indicating respiratory failure (functional status).  
+Question : 
+How would you treat chest complications?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                     parenchymal lung malignancy, a post-pneumonia effusion, an exudate.
+ 
+gold output :
+ · Postural drainage.· Antibiotics.· Bronchodilators.· Heart-lung transplantantion.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · History of TB, ankylosing spondylitis, radiation. · History of phrenic nerve crush, plombage, thoracotomy. · The fibrosis is usually apical. · Flattening of the chest on the affected side. · Tracheal deviation to the affected side. · Reduced expansion on the affected side. · Dull percussion note. · Presence of localized crackles; bronchial breathing may be present. Proceed as follows: Look for the following signs: · Scars of phrenic nerve crush, plombage, thoracotomy. · Radiation scars. DIAGNOSIS This patient has flattening of the R/L side of the chest with diminished movements on that side, tracheal deviation and localized crackles (lesion) due to pulmonary fibrosis secondary to tuberculosis (aetiology), and is comfortable at rest (functional status).  
+Question : 
+Which is the best imaging procedure for the upper lobe lesions?
+ 
+Answer : 
+ 
+predicted output :
+ The thoracic CT scan for lung lesions makes the diagnosis of malignant lung nodules, which are identified in a manner proportional to the size of the effusion.
+ 
+gold output :
+ MRI is better for upper lobe lesions than CT of the chest.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Symptoms of COAD (see pp 261 6). · Easy fatiguability, shortness of breath on exertion, weakness. · Leg oedema, and right upper quadrant pain. Examination · Patient is short of breath at rest and is centrally cyanosed. · Tar staining of the fingers. · JVP is raised: both 'a' and 'v' waves are seen, 'v' waves being prominent if there is associated tricuspid regurgitation. · On examination of the chest there is bilateral wheeze and other signs of chronic bronchitis (see pp 261-6). Proceed as follows: · Examine the cardiovascular system for signs of pulmonary hypertension: -Left parasternal heave (often absent when the chest is barrel shaped). -Right ventricular gallop rhythm. -Loud P2 and a loud ejection click. Pansystolic murmur of tricuspid regurgitation. -Early diastolic Graham Steell murmur in the pulmonary area. · Look for signs of: - Hepatomegaly. - Pedal oedema. DIAGNOSIS This patient has chronic cot pulmonale (lesion) due to long-standing COAD (aetiology) and is in congestive cardiac failure (functional status).  
+Question : 
+What do you understand by the term 'cor pulmonale'?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                            .·                                  haemophilus pneumonia, haemophilus pneumonia and haematosis.·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+gold output :
+ Cor pulmonale is right ventricular enlargement due to the increase in afterload that occurs in diseases of the lung, chest wall orpulmonary circulation.
+ 
+context : 
+ Context : 
+ INSTRUCTION Examine this patient's chest. SALIENT FEATURES History · Productive cough. · Increasing dyspnoea. · Weight loss. * History of smoking. · History of alpha-antitrypsin deficiency. Examination · Begin with examination of the sputum pot. · Observe the patient from the end of the bed - for obvious breathlessness, pursed lip breathing and symmetrical chest movements - and count respiratory rate. · Look for nail changes such as tar staining. · Feel the palms for warmth and the pulse for rapid bounding pulse (signs of carbon dioxide retention). · Look at the lips and tongue for central cyanosis. Neck · Comment on the active contractions of the accessory muscles of respiration such as sternocleidomastoids, scaleni and trapezii. · Palpate for tracheal deviation and measure the distance between the cricoid cartilage and suprasternal notch (less than three fingers' breadth in emphysema). · Comment on the raised JVP. Chest Comment on the barrel-shaped chest. Palpate for: · Apex beat. · Chest expansion. · Vocal fremitus. Percussion: Look for hyper-resonance and obliteration of cardiac and liver dullness. Auscultate for: · Breath sounds (diminished breath sounds). · Vocal resonance. · Forced expiratory time: normal individuals can empty their chest from full inspiration in 4 seconds or less. The end-point of FET is detected by auscultating over the trachea in the suprasternal notch. Prolongation of the FET to more than 6 seconds indicates airflow obstruction. · Loud pulmonary second heart sound. Abdomen Palpable liver due to hepatic displacement comment on upper border of liver by percussion). DIAGNOSIS This patient has features of chronic obstructive airway disease (COAD) (lesion) due to cigarette smoking (aetiology) and is very cyanosed at rest (functional status).  
+Question : 
+What are the general indications for lung transplantation?
+ 
+Answer : 
+ 
+predicted output :
+ ·                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+gold output :
+ The general indication is end-stage lung disease without alternative forms of therapy. Patients should be below 60 years of age and should have a life expectancy of less than 12 or 18 months; they should not have an underlying cancer or other serious systemic illness. The most common lung diseases are pulmonary fibrosis, emphysema (particularly alpha 1 -antitrypsin deficiency), bronchiectasis, cystic fibrosis and primary pulmonary hypertension.
+ 
+context : 
+ Context : 
+ INSTRUCTION Look at this patient. SALIENT FEATURES History · Daytime somnolence. · Unrefreshing sleep. · Daytime fatigue. · Snoring. · Shortness of breath. · Headache, particularly in the morning. · Swelling of feet. · Poor concentration. · Systemic hypertension. · Family history of obesity. · Gastro-oesophageal reflux. · Poor quality of life. Examination · Obese patient who is plethoric and cyanosed. · Maxillary or mandibular hypoplasia. · Shortness of breath at rest. · May be nodding off to sleep. · Systemic hypertension. · Nocturnal angina. · Look for signs of pulmonary hypertension and right heart failure. Remember. Nearly 50% of patients with sleep apnoea syndrome are not obese. DIAGNOSIS This patient has marked obesity and hypersomnolence with signs of pulmonary hypertension (lesion) which indicate that she has pickwickian syndrome. The patient is in cardiac failure (functional status).  
+Question : 
+How would you treat such a patient?
+ 
+Answer : 
+ 
+predicted output :
+ · 
+gold output :
+ · Weight reduction.· Avoidance of smoking and alcohol.· Progesterone (enhances respiratory drive).·       Continuous nasal positive airway pressure delivered by a nasal mask (lancet 1999; 353: 2100-5).·       Home oxygen.·       Surgery: tracheostomy, uvulopalatopharyngoplasty, linguoplasty, mandibular advancement, plastic remodelling of the uvula(laser-assisted or radiofrequency ablation).·       Drugs: serotonin receptor blockade, acetazolamide, methylxanthines, weight loss medications.Mr. Pickwick is a character in the novel Pickwick Papers, written by Charles Dickens; the term was applied by Sir William Osier.
+ 
